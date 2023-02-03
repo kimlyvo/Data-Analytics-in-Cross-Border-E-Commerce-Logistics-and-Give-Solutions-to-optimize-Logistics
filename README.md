@@ -3,7 +3,7 @@ Case study contest which is regard to "Data Analytics in Cross-Border E-Commerce
 <br>
 Link Drive: https://drive.google.com/drive/folders/1Okp4YmGvdknPECgdMabn6h6KKK-F_k5L?usp=share_link
 <br> 
-<h5>How to do</h5>
+<h3>How to do</h3>
 <br>
 <b>1. Check Data </b>: error value, correlation between indexes 
 <br>
